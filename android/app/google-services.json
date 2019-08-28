@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026278502354",
+    "firebase_url": "https://flutterchat-a347f.firebaseio.com",
+    "project_id": "flutterchat-a347f",
+    "storage_bucket": "flutterchat-a347f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026278502354:android:9f6587cc24e52030",
+        "android_client_info": {
+          "package_name": "com.codabee.flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026278502354-u1kal97pae6mgqiujhvdnrfduel46vgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__ZGKSDIEmjBrQle8T8Z3yrypMm-7LGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026278502354-u1kal97pae6mgqiujhvdnrfduel46vgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
